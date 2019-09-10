@@ -1,0 +1,16 @@
+peso = 80
+peso_Ideal = 72;
+kilosXSemana = 1;
+cuantasSemanas = 0;
+
+PARA peso = 80; MIENTRAS peso > peso_Ideal ; Disminuir peso = peso -kilosXSemana
+    cuantasSemanas = cuantasSemanas + 1
+escribe cuantasSemanas
+
+------------------------------------------------------
+
+peso = 80;
+peso_Ideal = 72;
+kilosXSemana =1;
+cuantasSemanas =0;
+

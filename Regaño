@@ -1,0 +1,87 @@
+
+num1 = 1
+num2 = 8
+
+para contador = num1 Mientras contador <= num2 Aumenta contador = contador +1
+
+
+escribe contador
+FIN-para
+FIN
+
+----------------------------------------------------------------
+num1 = 1
+num2 = 8
+contador = num1
+MIENTRAS contador <= num2
+contador = contador +1 
+
+FIN-MIENTRAS
+
+FIN
+
+----------------------------------------------
+
+num1 = 1
+num2 = 8
+contador = 0
+HACER
+contador = contador +1
+MMIENTRAS contador <= num2
+
+leer contador
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+
+
+numero1 = 2
+numero2 = 4
+totalnumeros = 2
+contador = 1
+
+Mientras contador <= numeros Hacer
+
+leer total 
+
+totalnumeros =  totalnumeros  + total
+
+FIN-Mientras
+ESCRIBE totalnumeros
+FIN
+---------------------------------------------------------
+
+LEER numeros
+totalnumeros = 0
+contador = 1
+
+HACER 
+    LEER contarNumeros
+    totalnumeros = totalnumeros + contarNumeros
+    contador = contador + 1
+Mientras contador <= numeros
+ESCRIBE totalnumeros
